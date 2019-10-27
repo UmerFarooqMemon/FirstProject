@@ -1,1 +1,2 @@
 second file of remote-repository
+modify online and sync in smart-git
